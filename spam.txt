@@ -39,3 +39,4 @@ Line 38
 Line 39
 Line 40
 auto 1
+auto 2
